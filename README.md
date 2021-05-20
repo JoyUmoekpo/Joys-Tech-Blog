@@ -30,7 +30,7 @@ SOFTWARE.
 Heroku: https://joys-tech-blog.herokuapp.com/ </br>
 Github: https://github.com/JoyUmoekpo/Joys-Tech-Blog
 
-![Image](/assets/login.PNG)
+![Image](/assets/screenshot.PNG)
 ---
 
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
