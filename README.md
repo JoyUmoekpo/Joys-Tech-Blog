@@ -27,9 +27,8 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ## Links
-Heroku: https://umoekpo-tech-blog.herokuapp.com/ </br>
-Github: https://github.com/JoyUmoekpo/Tech-Blog
-
+Heroku: https://joys-tech-blog.herokuapp.com/ </br>
+Github: https://github.com/JoyUmoekpo/Joys-Tech-Blog
 
 ![Image](/assets/login.PNG)
 ---
